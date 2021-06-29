@@ -1,13 +1,15 @@
-# DatabaseLab-2021
-We have agreement now,
-I will throw the lab content before the lab time
+# DatabaseLab-2021🧵
 
-after the lab time and finish scoring I will provide the answer
+🧙‍♂️ How to use this repository
 
-the answer will have normal one and the advance one
+We will throw the lab content before the actual lab time (typically 1 or 2 days before the lab)
 
-if you found any problem on this repo kindly open issue on this repo
+after the lab time end and we finished scoring, we will give the lab answer
 
-Good luck, 
+some lab answers might have a regular solution and advanced solution
+
+if you found any problem on this repo, kindly open issue on this repo
+
+🍀 Good luck, 
 
 Oralita & Vector2588
