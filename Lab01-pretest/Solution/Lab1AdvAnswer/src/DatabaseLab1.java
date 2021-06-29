@@ -21,9 +21,18 @@ public class DatabaseLab1 {
 
     private static ProblemInfo convertToProblemInfo(String rawData) {
         String[] data = rawData.trim().split(",");
-        return new ProblemInfo(data[0], data[1], Integer.parseInt(data[2]), Integer.parseInt(data[3]),
-                Integer.parseInt(data[4]), Integer.parseInt(data[5]), Integer.parseInt(data[6]),
-                Integer.parseInt(data[7]), Integer.parseInt(data[8]), Integer.parseInt(data[9]));
+        return new ProblemInfo(
+                data[0], 
+                data[1],
+                Integer.parseInt(data[2]),
+                Integer.parseInt(data[3]),
+                Integer.parseInt(data[4]),
+                Integer.parseInt(data[5]),
+                Integer.parseInt(data[6]),
+                Integer.parseInt(data[7]),
+                Integer.parseInt(data[8]),
+                Integer.parseInt(data[9])
+        );
     }
 
     // number i
