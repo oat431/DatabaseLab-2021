@@ -2,7 +2,7 @@
 
 🧙‍♂️ How to use this repository
 
-We will throw the lab content before the actual lab time (typically 1 or 2 days before the lab)
+We will throw the lab content before the actual lab time
 
 after the lab time end and we finished scoring, we will give the lab answer
 
